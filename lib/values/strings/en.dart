@@ -1,0 +1,100 @@
+class English {
+  Map<String, String> get() {
+    return {
+      'app_name': 'P Knives',
+      'sample_text': 'Sample_text',
+
+      'activity_main_title': 'Your knives:',
+      'exit_dialog_title': 'Exit',
+      'exit_dialog_text': 'Are you sure you want to exit the program?',
+      'cancel': 'Cancel',
+      'exit': 'Exit',
+
+      'menu_nav_feedback': 'Feedback and support',
+
+      'add_test_data_button': 'Add demo data',
+
+      'activity_feedback_title': 'Best regards to you:',
+      'activity_feedback_description': '\t Dear user!\n\n\t You have a unique opportunity to participate in the creation of a new application. As you may have noticed, the application currently has only basic functionality (there are no advertisements). While we have a small number of users, the developers have the opportunity to study every wish and, with a very high probability, implement them.\n\t If you want it to be more convenient for you to use the application - leave a review where you write what exactly you would like to improve. If everything suits you, you could just leave a review, we will be very pleased. No review will go unnoticed.\n\n\t And I\'ll just leave it here:',
+      'activity_feedback_btn_share': 'Share the app',
+      'activity_feedback_btn_rate': 'Leave feedback',
+      'activity_feedback_recommend_text': 'Let me recommend the app: ',
+      'activity_feedback_recommend_subject': 'Angle of knife',
+
+      'activity_knife_next': 'Next knife',
+      'activity_knife_previous': 'Previous knife',
+      'activity_knife_your_knife': 'Your knife:',
+      'activity_knife_name': 'Name',
+      'activity_knife_date': 'Date',
+      'activity_knife_description': 'Description',
+      'activity_knife_status': 'Status',
+      'activity_knife_angel': 'Angle',
+      'activity_knife_add': 'Add',
+      'activity_knife_edit': 'Edit',
+      'activity_knife_delete': 'Remove',
+      'activity_knife_save': 'Save',
+      'activity_knife_cansel': 'Cancel',
+      'activity_knife_sharpen': 'Sharpen',
+      'activity_knife_date_format': 'dd-MM-yyyy',
+      'activity_knife_error_wrong_date': 'Invalid date format',
+      'activity_knife_enter_text': 'Enter your text',
+      'activity_knife_error_wrong_angle': 'Angle can be from 1 to 90',
+      'activity_knife_delete_message': 'Are you sure you want to remove this knife?',
+      'activity_knife_yes': 'Yes',
+      'activity_knife_no': 'No',
+      'activity_knife_delete_complete_message': 'Data deleted',
+      'activity_knife_one_sided_sharpening': 'One-sided',
+      'activity_knife_double_sided_sharpening': 'Double sided',
+      'activity_knife_sharpening_type': 'Type',
+      'activity_knife_no_image': 'No image selected',
+      'activity_knife_history_title':"History of sharpening",
+      'activity_knife_premium_button':"Premium",
+      'activity_knife_delete_image_message': 'Are you sure you want to remove this image?',
+
+
+      'activity_angle_level': 'Level',
+      'activity_angle_done': 'Done',
+      'activity_angle_line': '__________________',
+      'activity_angle_horizontal_level': 'Horizon: ',
+      'activity_angle_toast_set_level': 'The level was set to  ',
+      'activity_angle_toast_reset_level': 'The level has been reset',
+      'activity_angle_toast_current_axis': 'Current axis: ',
+      'activity_angle_toast_hold_level_true': 'The level is stored',
+      'activity_angle_toast_hold_level_false': 'The level is not stored',
+      'activity_angle_toast_save_knife': 'The record has been added to the sharpening log',
+      'activity_angle_hold_button': 'HOLD',
+
+
+      'activity_profile_your_account': 'Your account:',
+      'activity_profile_login_text': 'Log in to easily store all your knife information in the cloud and access it from any device.',
+      'activity_profile_login_button_google': 'Sign in with google',
+      'activity_profile_button_delete_account': 'Delete my account',
+      'activity_profile_button_button_sync': 'Sync data now',
+      'activity_profile_button_button_log_out': 'Log out',
+      'activity_profile_delete_profile': 'Are you sure you want to delete your profile? This action will permanently delete all your data stored on the server.',
+
+
+
+      'stock_data_knife_name': 'New knife',
+      'demo_data_pocket_knife': 'Pocket knife',
+      'demo_data_chef_knife': "Chef's knife",
+      'demo_data_meat_knife': 'Meat knife',
+      'demo_data_fish_knife': 'Fish knife',
+      'demo_data_fruit_knife': 'Fruit & Vegetable Knife',
+      'demo_data_utility_knife': 'Kitchen Utility Knife',
+      'demo_data_scissors': 'Scissors',
+      'demo_data_knife_description': 'Demo record with a typical sharpening angle',
+
+      'paywall_title': 'Unlock full access!',
+      'paywall_advantage_1': 'Ability to add knife photos',
+      'paywall_advantage_2': 'Sync',
+      'paywall_advantage_3': 'Full statistics',
+      'paywall_advantage_4': 'Level saving and more...',
+      'paywall_button_continue': 'Continue',
+      'paywall_month': 'month',
+      'paywall_success': 'Premium is active',
+      'paywall_error': 'Something went wrong',
+      'paywall_user_agreement': 'User agreement',
+    };
+  }
+}
